@@ -1,9 +1,6 @@
-# shopsmart-ecommerce-sql
-End-to-end SQL project: data cleaning and exploratory analysis on a fictional e-commerce dataset using MySQL. Covers duplicate handling, NULL treatment, RFM customer segmentation, and revenue analytics.
-
 # ShopSmart E-Commerce Analytics
 
-An end-to-end data analytics project focused on SQL data cleaning and exploratory data analysis for a fictional Indian e-commerce business.
+End-to-end SQL project: data cleaning and exploratory analysis on a fictional e-commerce dataset using MySQL. Covers duplicate handling, NULL treatment, RFM customer segmentation, and revenue analytics.
 
 ---
 
