@@ -1,0 +1,206 @@
+customer_id,full_name,email,phone,city,country,gender,date_of_birth,registration_date
+CUST0142,Karan Gupta,karan.gupta92@gmail.com,,kolkata,India,,16/8/1990,2022-08-12
+CUST0155,Kavya Nambiar,kavya.nambiar20@yahoo.com,,Lucknow,India,M,1977-04-03,2023-07-04
+CUST0119,Gaurav Saxena,gaurav.saxena74@yahoo.com,+918350275186,bangalore,India,M,16-3-1993,2021-08-30
+CUST0019,Ananya Iyer,ananya.iyer9@gmail.com,+918010193046,Ahmedabad,India,M,2-14-1989,2022-02-23
+CUST0067,Shweta Pandey,shweta.pandey98@gmail.com,+918905584866,Hyderabad,India,M,1-10-1980,2021-10-26
+CUST0050,Aarav Sharma,aarav.sharma17@yahoo.com,+919376658660,delhi,INDIA,Other,1-19-1973,2023-06-22
+CUST0130,Preeti Chauhan,preeti.chauhan60@gmail.com,+917099541460,chennai,india,Other,,2022-07-31
+CUST0162,Ritika Shah,ritika.shah46@gmail.com,+919135789708,surat,India,f,4-12-1999,2024-02-27
+CUST0002,Priya Singh,priya.singh92@gmail.com,+917946785248,BANGALORE,India,M,23-3-1994,2021-11-15
+CUST0164,Manish Tiwari,manish.tiwari63@gmail.com,+919107091983,surat,India,f,24-3-1975,2024-01-16
+CUST0018,Preeti Chauhan,preeti.chauhan38@yahoo.com,,hyderabad,India,M,,2023-11-07
+CUST0088,Sunita Yadav,sunita.yadav83@gmail.com,+919825363606,BANGALORE,India,Male,12-25-1978,2022-12-20
+CUST0032,Ananya Iyer,ananya.iyer85@gmail.com,+918008752943,bangalore,India,Female,2/1/1974,2024-06-05
+CUST0190,Rajesh Menon,rajesh.menon83@gmail.com,+917716681967,delhi,India,f,1996-08-20,2021-01-20
+CUST0170,Aditya Bhatt,aditya.bhatt10@gmail.com,+919332299091,mumbai,India,f,19/4/1970,2023-03-27
+CUST0123,Aditya Bhatt,aditya.bhatt99@gmail.com,+917538274418,jaipur,India,Other,11-17-1984,2024-02-04
+CUST0091,Tarun Bajaj,tarun.bajaj97@gmail.com,+917476267947,Lucknow,india,Other,1986-11-10,2024-05-12
+CUST0177,Anjali Desai,anjali.desai32@gmail.com,+919648572296,Delhi,India,m,11-7-1970,2022-11-06
+CUST0117,  Gaurav Saxena  ,gaurav.saxena46@gmail.com,+919746499773,mumbai,India,,26/9/1981,2021-10-20
+CUST0185,Rohan Mehta,rohan.mehta15@yahoo.com,+917469709122,DELHI,INDIA,Female,18/3/1986,2023-05-24
+CUST0150,  Anjali Desai  ,anjali.desai73@yahoo.com,+919171050399,kolkata,India,Male,1980-09-15,2024-04-09
+CUST0078,Tarun Bajaj,tarun.bajaj36@yahoo.com,+918904315855,bangalore,India,f,11-12-1973,2022-07-20
+CUST0202,Gaurav Saxena,test2@gmail.com,,,India,M,1995-05-10,2022-03-15
+CUST0076,Vikram Nair,vikram.nair60@gmail.com,+918753617371,mumbai,India,m,4/2/1985,2021-10-05
+CUST0108,Anjali Desai,anjali.desai41@gmail.com,+919791559885,delhi,India,M,23/8/1979,2023-08-19
+CUST0040,Swati Mishra,swati.mishra44@gmail.com,+918810607153,MUMBAI,India,M,9-2-1993,2021-05-21
+CUST0167,Priya Singh,priya.singh90@gmail.com,+917769945233,Delhi,india,Male,4-20-1977,2022-07-02
+CUST0098,  Rohan Mehta  ,rohan.mehta37@yahoo.com,+917387820537,Kolkata,India,Other,1988-09-26,2024-03-16
+CUST0095,Ananya Iyer,ananya.iyer40@gmail.com,,jaipur,India,Female,12/6/1998,2021-10-27
+CUST0070,Manish Tiwari,manish.tiwari39@yahoo.com,+919075362821,chennai,india,f,,2023-03-22
+CUST0175,Tarun Bajaj,tarun.bajaj12@gmail.com,+919568578538,chennai,India,m,1983-07-25,2024-02-20
+CUST0204,Rahul Bose,test4@gmail.com,,,India,M,1995-05-10,2022-03-15
+CUST0065,Karan Gupta,karan.gupta59@yahoo.com,+919812264367,MUMBAI,India,m,23-10-1980,2022-11-04
+CUST0124,Shruti Banerjee,shruti.banerjee17@gmail.com,+917237996376,Kolkata,India,m,11/3/1975,2023-11-29
+CUST0187,Swati Mishra,swati.mishra91@gmail.com,+917437021700,kolkata,India,f,1980-04-15,2023-09-30
+CUST0136,Aditya Bhatt,aditya.bhatt81@gmail.com,+918632905061,Lucknow,India,M,,2022-10-05
+CUST0112,Priya Singh,priya.singh9@gmail.com,+919698343112,Ahmedabad,INDIA,f,1-12-1974,2021-12-25
+CUST0134,Chirag Thakur,chirag.thakur18@gmail.com,+917697940975,Jaipur,INDIA,m,17-6-1988,2022-09-06
+CUST0097,Sunita Yadav,sunita.yadav81@gmail.com,+919014000727,Hyderabad,India,m,1988-01-12,2023-07-15
+CUST0005,Ritu Agarwal,ritu.agarwal47@yahoo.com,+919878380452,Lucknow,INDIA,F,6/11/1989,2023-02-17
+CUST0165,Sneha Patel,sneha.patel10@gmail.com,+917027418321,jaipur,India,F,1/3/1992,2023-02-04
+CUST0014,  Pallavi Deshpande  ,pallavi.deshpande31@yahoo.com,+919315992115,Ahmedabad,india,Other,26-8-1977,2021-07-18
+CUST0178,Gaurav Saxena,gaurav.saxena84@gmail.com,+918377246344,Surat,India,Other,3-13-1980,2023-10-03
+CUST0080,Swati Mishra,swati.mishra30@gmail.com,,delhi,India,m,1995-03-04,2023-01-04
+CUST0060,Arjun Reddy,arjun.reddy57@gmail.com,+917123993296,Jaipur,India,Female,1992-03-10,2021-07-10
+CUST0133,Tanvi Ghosh,tanvi.ghosh97@yahoo.com,+918723944394,mumbai,India,Male,26-6-1992,2021-11-02
+CUST0092,  Sneha Patel  ,sneha.patel39@gmail.com,+918097447932,Delhi,India,Other,6/7/1993,2022-04-17
+CUST0015,Shweta Pandey,shweta.pandey53@gmail.com,+919892078691,jaipur,India,M,1982-12-11,2022-01-25
+CUST0125,Harsh Malhotra,harsh.malhotra33@yahoo.com,+918178758213,Hyderabad,india,F,6/11/1986,2024-05-24
+CUST0045,Sunita Yadav,sunita.yadav69@gmail.com,+919544659112,bangalore,India,F,8-8-1978,2023-02-16
+CUST0047,Preeti Chauhan,preeti.chauhan31@gmail.com,+919108061573,Mumbai,India,m,23/7/1977,2024-04-06
+CUST0020,Deepak Sahu,deepak.sahu51@yahoo.com,+918963764597,MUMBAI,India,Other,1989-10-04,2023-11-03
+CUST0041,Rohan Mehta,rohan.mehta32yahoo.com,+917654477195,pune,INDIA,F,4-15-1988,2021-12-10
+CUST0115,Shweta Pandey,shweta.pandey96@gmail.com,+918456151216,pune,INDIA,Other,1981-09-09,2021-06-11
+CUST0004,Ananya Iyer,ananya.iyer81@gmail.com,+919479708607,MUMBAI,India,Female,3/5/1994,2023-02-18
+CUST0180,Gaurav Saxena,gaurav.saxena89@yahoo.com,+918757249751,delhi,INDIA,m,22/5/1977,2023-02-12
+CUST0188,Smita Kulkarni,smita.kulkarni41@gmail.com,+919521166052,Chennai,India,Other,3-27-1989,2024-04-23
+CUST0158,Divya Pillai,divya.pillai55gmail.com,+918479250414,Lucknow,India,f,14/7/1992,2022-01-12
+CUST0062,Nikhil Jain,nikhil.jain77@gmail.com,+917299832023,CHENNAI,India,m,1-10-1996,2024-04-02
+CUST0079,Amit Kumar,amit.kumar59@yahoo.com,+919746601166,Mumbai,India,f,26/3/1977,2024-02-10
+CUST0169,Nikhil Jain,nikhil.jain8@gmail.com,+917355134188,CHENNAI,INDIA,f,1988-02-17,2024-03-06
+CUST0024,Tanvi Ghosh,tanvi.ghosh72@yahoo.com,+919967906665,kolkata,India,f,5-9-1988,2022-09-24
+CUST0120,Manish Tiwari,manish.tiwari91@gmail.com,+918226543337,pune,India,F,15/2/1974,2023-07-01
+CUST0104,Arjun Reddy,arjun.reddy20@yahoo.com,+919683239935,DELHI,INDIA,Other,12/7/1971,2024-06-04
+CUST0114,Nisha Kapoor,nisha.kapoor70gmail.com,+919778416511,Chennai,India,M,11-11-1997,2023-01-24
+CUST0085,Tarun Bajaj,tarun.bajaj41@gmail.com,+918607610633,Lucknow,India,F,3-2-1972,2023-02-03
+CUST0039,Arjun Reddy,arjun.reddy69@yahoo.com,+919424045110,MUMBAI,INDIA,,1974-08-06,2022-11-02
+CUST0084,  Shweta Pandey  ,shweta.pandey90@yahoo.com,+919367966782,Bangalore,India,Other,4-14-1998,2023-03-28
+CUST0026,  Tarun Bajaj  ,tarun.bajaj95@gmail.com,+918768294570,surat,India,Female,1978-03-26,2021-03-21
+CUST0093,Vivek Chandra,vivek.chandra86@gmail.com,+917181686832,Pune,India,f,19-7-1988,2023-05-06
+CUST0107,Ritu Agarwal,ritu.agarwal66@yahoo.com,+917953645978,Chennai,India,,7-17-1971,2021-06-17
+CUST0172,  Sneha Patel  ,sneha.patel30@gmail.com,+919636531097,chennai,India,f,9-11-1970,2022-12-30
+CUST0200,Preeti Chauhan,test0@gmail.com,,,India,M,1995-05-10,2022-03-15
+CUST0021,Manish Tiwari,manish.tiwari45@gmail.com,+918587106770,Pune,India,m,1989-11-17,2024-02-10
+CUST0181,Vikram Nair,vikram.nair77@gmail.com,+919175884729,Surat,India,M,1995-06-23,2022-05-24
+CUST0003,Swati Mishra,swati.mishra44@yahoo.com,+918541804686,Jaipur,India,M,1993-08-18,2023-02-15
+CUST0121,Ananya Iyer,ananya.iyer41@gmail.com,+919362219754,Hyderabad,India,Male,23/12/1992,2023-11-08
+CUST0013,Gaurav Saxena,gaurav.saxena29yahoo.com,+919379074819,bangalore,India,F,2/11/1992,2021-03-06
+CUST0006,Ritu Agarwal,ritu.agarwal82@gmail.com,+918392783743,mumbai,India,M,6-13-1995,2024-03-07
+CUST0007,Deepak Sahu,deepak.sahu64@gmail.com,+918970753705,delhi,India,m,14-10-1993,2021-10-11
+CUST0087,Karan Gupta,karan.gupta28@yahoo.com,+917464794418,kolkata,India,F,19/5/1994,2024-02-23
+CUST0159,Rajesh Menon,rajesh.menon29@gmail.com,+918988677919,kolkata,India,,5-9-1987,2022-02-21
+CUST0073,Rajesh Menon,rajesh.menon47@gmail.com,+917706712922,pune,India,m,1993-06-26,2021-06-04
+CUST0017,Rahul Bose,rahul.bose62@yahoo.com,+917251837136,Mumbai,India,m,10-8-1999,2024-02-13
+CUST0201,Tarun Bajaj,test1@gmail.com,,,India,M,1995-05-10,2022-03-15
+CUST0149,Chirag Thakur,chirag.thakur90@gmail.com,+919308620882,Bangalore,India,Female,1991-10-28,2023-12-18
+CUST0148,Ritika Shah,ritika.shah52@gmail.com,+918335640103,jaipur,India,f,8/4/1989,2023-07-21
+CUST0129,Pooja Joshi,pooja.joshi32@yahoo.com,+918649910946,CHENNAI,India,Male,6-19-1996,2021-11-23
+CUST0176,Kavya Nambiar,kavya.nambiar22@gmail.com,+918154998170,pune,India,F,9-7-1975,2021-06-07
+CUST0189,Ananya Iyer,ananya.iyer41@yahoo.com,+917786170238,delhi,india,,5-10-1983,2023-09-24
+CUST0143,Deepak Sahu,deepak.sahu8@gmail.com,+919465883999,surat,INDIA,M,14/3/1999,2021-03-16
+CUST0103,Divya Pillai,divya.pillai44@gmail.com,+917972994972,delhi,India,m,1997-02-17,2024-06-19
+CUST0055,Siddharth Rao,siddharth.rao35@gmail.com,+917712632936,Jaipur,INDIA,m,2-15-1984,2022-07-12
+CUST0028,Suresh Patil,suresh.patil52@gmail.com,+918422277848,Delhi,India,Male,1988-05-02,2022-12-09
+CUST0051,Pallavi Deshpande,pallavi.deshpande7@yahoo.com,+917490000526,chennai,India,F,1988-11-22,2024-02-27
+CUST0128,Aditya Bhatt,aditya.bhatt44@gmail.com,+918371453454,Chennai,India,Male,1994-06-17,2023-08-14
+CUST0171,Vikram Nair,vikram.nair73@yahoo.com,+918671414897,kolkata,India,,1994-12-05,2022-12-10
+CUST0046,  Pallavi Deshpande  ,pallavi.deshpande42@yahoo.com,+918109615163,Jaipur,INDIA,m,17/1/1987,2023-04-13
+CUST0152,Manish Tiwari,manish.tiwari96@yahoo.com,+918819766421,MUMBAI,india,M,1999-02-16,2022-01-04
+CUST0086,Arjun Reddy,arjun.reddy76@gmail.com,+919877685081,Chennai,India,,12-2-1997,2022-12-22
+CUST0122,Siddharth Rao,siddharth.rao26@gmail.com,,kolkata,india,f,1984-09-05,2023-03-27
+CUST0111,Kavya Nambiar,kavya.nambiar24@gmail.com,,Kolkata,india,M,2-8-1982,2022-06-04
+CUST0105,Harsh Malhotra,harsh.malhotra58@yahoo.com,+919014406658,Bangalore,India,Other,25-5-1984,2023-05-08
+CUST0025,Anjali Desai,anjali.desai6@gmail.com,+918071722055,Chennai,India,,5/12/1989,2021-12-29
+CUST0182,Suresh Patil,suresh.patil79@yahoo.com,+919909719639,hyderabad,India,,1-4-1973,2023-11-29
+CUST0100,Gaurav Saxena,gaurav.saxena79@yahoo.com,+918215018687,hyderabad,INDIA,M,11-21-1995,2021-07-13
+CUST0001,  Pooja Joshi  ,pooja.joshi36@yahoo.com,+917440213415,kolkata,India,,3/1/1971,2024-05-17
+CUST0018,Preeti Chauhan,preeti.chauhan38@yahoo.com,,hyderabad,India,M,,2023-11-07
+CUST0042,Chirag Thakur,chirag.thakur96@gmail.com,+917703368777,Delhi,india,M,19-5-1999,2022-02-11
+CUST0063,Preeti Chauhan,preeti.chauhan58@gmail.com,+919370467256,chennai,India,f,23/4/1997,2022-04-24
+CUST0059,Vivek Chandra,vivek.chandra1@gmail.com,,Kolkata,India,Other,1990-08-25,2024-01-30
+CUST0048,Anjali Desai,anjali.desai68@gmail.com,+919363900493,Surat,India,m,1979-05-08,2022-10-09
+CUST0089,Aarav Sharma,aarav.sharma19@gmail.com,+917609346980,Mumbai,India,Female,7-15-1982,2022-10-01
+CUST0160,Pallavi Deshpande,pallavi.deshpande58@gmail.com,,chennai,INDIA,M,7/2/1997,2022-11-13
+CUST0096,Manish Tiwari,manish.tiwari78@yahoo.com,+917323639855,jaipur,India,Other,25-10-1994,2024-03-02
+CUST0066,Rajesh Menon,rajesh.menon41@gmail.com,+919095718469,mumbai,india,F,11-22-1977,2021-07-05
+CUST0052,  Nisha Kapoor  ,nisha.kapoor32@yahoo.com,+919604114475,Jaipur,India,,10-8-1984,2024-06-25
+CUST0012,Arjun Reddy,arjun.reddy61@gmail.com,+919266341635,CHENNAI,India,Female,5-13-1992,2023-11-26
+CUST0099,Amit Kumar,amit.kumar61@gmail.com,+918934982045,hyderabad,INDIA,F,1986-11-06,2023-06-16
+CUST0166,Sneha Patel,sneha.patel86@gmail.com,+919831604672,Mumbai,india,,1-17-1970,2022-08-11
+CUST0102,Nisha Kapoor,nisha.kapoor83@gmail.com,+919878128023,surat,INDIA,F,,2022-09-25
+CUST0082,  Sunita Yadav  ,sunita.yadav85@gmail.com,,pune,India,,4-11-1983,2023-06-28
+CUST0010,Vivek Chandra,vivek.chandra65@gmail.com,+918281810600,Kolkata,india,Female,25/6/1974,2023-12-23
+CUST0084,  Shweta Pandey  ,shweta.pandey90@yahoo.com,+919367966782,Bangalore,India,Other,4-14-1998,2023-03-28
+CUST0049,Pooja Joshi,pooja.joshi98@gmail.com,+919079617090,Ahmedabad,India,m,10/4/1973,2022-09-12
+CUST0163,Siddharth Rao,siddharth.rao3@yahoo.com,+919487399910,Hyderabad,India,Female,13/4/1980,2022-11-23
+CUST0081,Kavya Nambiar,kavya.nambiar3@yahoo.com,+918808011838,surat,India,Other,1984-06-17,2022-03-30
+CUST0144,Meera Krishnan,meera.krishnan24@gmail.com,+918243251189,Mumbai,India,F,10-6-1999,2024-01-18
+CUST0037,Sneha Patel,sneha.patel54@gmail.com,,Ahmedabad,India,Other,10-6-1970,2023-05-09
+CUST0126,Pallavi Deshpande,pallavi.deshpande73@yahoo.com,,jaipur,India,m,25-4-1990,2021-03-04
+CUST0101,Tanvi Ghosh,tanvi.ghosh37@yahoo.com,+919588580274,hyderabad,India,Male,10-6-1999,2021-06-23
+CUST0135,Aditya Bhatt,aditya.bhatt48@gmail.com,+918789026838,surat,India,M,9/8/1989,2024-04-10
+CUST0186,Ritika Shah,ritika.shah52@gmail.com,+919823115971,Mumbai,INDIA,Female,,2022-03-16
+CUST0038,Rajesh Menon,rajesh.menon70@gmail.com,+919096929657,CHENNAI,India,M,22-6-1982,2023-08-16
+CUST0173,Tanvi Ghosh,tanvi.ghosh56@yahoo.com,+918632399901,Jaipur,India,Female,2-3-1992,2021-11-12
+CUST0034,  Ritika Shah  ,ritika.shah32@gmail.com,+917572687073,Lucknow,india,f,20-8-2000,2024-01-28
+CUST0033,Vikram Nair,vikram.nair81@gmail.com,+918649174966,bangalore,India,M,25-2-1998,2023-11-27
+CUST0064,  Tarun Bajaj  ,tarun.bajaj96@gmail.com,+918637375316,Lucknow,India,Male,1-5-1985,2023-06-21
+CUST0154,Pooja Joshi,pooja.joshi69@gmail.com,+917956447193,Mumbai,India,Other,18-12-1991,2022-04-16
+CUST0106,Rahul Bose,rahul.bose78@yahoo.com,+919753842979,Chennai,india,F,1992-09-28,2021-11-25
+CUST0035,Gaurav Saxena,gaurav.saxena96@gmail.com,+918061886576,BANGALORE,India,Other,9-4-1990,2022-08-09
+CUST0025,Anjali Desai,anjali.desai6@gmail.com,+918071722055,Chennai,India,,5/12/1989,2021-12-29
+CUST0132,Sneha Patel,sneha.patel25@gmail.com,+918659355558,kolkata,India,F,2-13-1974,2022-11-26
+CUST0184,Pooja Joshi,pooja.joshi94@yahoo.com,+918955638763,Kolkata,India,f,15-2-1985,2022-09-07
+CUST0153,Arjun Reddy,arjun.reddy94@gmail.com,+918642737456,chennai,India,F,28/11/1991,2022-12-14
+CUST0088,Sunita Yadav,sunita.yadav83@gmail.com,+919825363606,BANGALORE,India,Male,12-25-1978,2022-12-20
+CUST0083,Vikram Nair,vikram.nair42@gmail.com,+918181184718,Ahmedabad,india,f,10-17-1982,2024-05-24
+CUST0050,Aarav Sharma,aarav.sharma17@yahoo.com,+919376658660,delhi,INDIA,Other,1-19-1973,2023-06-22
+CUST0065,Karan Gupta,karan.gupta59@yahoo.com,+919812264367,MUMBAI,India,m,23-10-1980,2022-11-04
+CUST0072,Karan Gupta,karan.gupta83@yahoo.com,+917143299564,surat,India,F,11-5-1999,2021-09-28
+CUST0137,Tarun Bajaj,tarun.bajaj89@yahoo.com,+919626278260,surat,INDIA,M,17/3/1992,2023-09-07
+CUST0161,Nisha Kapoor,nisha.kapoor2@yahoo.com,+917503869216,pune,India,Female,4-18-1982,2023-02-19
+CUST0146,Harsh Malhotra,harsh.malhotra97@yahoo.com,+919743306394,CHENNAI,india,f,1972-07-22,2021-10-15
+CUST0016,Rajesh Menon,rajesh.menon55@yahoo.com,+917323775634,kolkata,India,M,1990-09-27,2022-04-30
+CUST0156,Chirag Thakur,chirag.thakur7yahoo.com,+918885330933,Bangalore,India,M,10/9/1974,2024-03-25
+CUST0053,Sneha Patel,sneha.patel95@yahoo.com,+919686566602,Lucknow,India,Male,1977-03-18,2023-04-17
+CUST0036,Kavya Nambiar,kavya.nambiar41@gmail.com,+917647812758,Surat,India,Female,7-14-1972,2023-05-02
+CUST0043,Vikram Nair,vikram.nair81@yahoo.com,+918295287749,Jaipur,India,F,1995-10-26,2023-05-28
+CUST0110,Tarun Bajaj,tarun.bajaj80@gmail.com,+919146750150,Mumbai,INDIA,Female,,2022-12-24
+CUST0157,Deepak Sahu,deepak.sahu99@gmail.com,+918296068379,Lucknow,india,Female,1983-05-09,2024-04-26
+CUST0174,Nikhil Jain,nikhil.jain14@yahoo.com,+918910126009,BANGALORE,India,Male,14-3-1972,2023-11-16
+CUST0151,  Preeti Chauhan  ,preeti.chauhan66@gmail.com,+917566696611,Pune,india,M,8-22-1987,2023-03-22
+CUST0054,Gaurav Saxena,gaurav.saxena61@yahoo.com,+918214266162,Pune,India,Female,26/5/1999,2024-01-21
+CUST0061,Siddharth Rao,siddharth.rao15@gmail.com,+917661300942,Surat,India,m,16/8/1983,2021-10-24
+CUST0031,Divya Pillai,divya.pillai39@gmail.com,+918305132983,CHENNAI,India,f,15/8/1984,2021-12-14
+CUST0179,Lokesh Dubey,lokesh.dubey42@gmail.com,+918687643539,Ahmedabad,India,Male,1-9-1991,2022-03-06
+CUST0023,Manish Tiwari,manish.tiwari33@gmail.com,+917396418889,BANGALORE,India,M,3-21-1980,2023-06-24
+CUST0090,Deepak Sahu,deepak.sahu73@gmail.com,+917668210614,Jaipur,India,F,22-8-1978,2023-06-25
+CUST0068,Kavya Nambiar,kavya.nambiar73@gmail.com,,chennai,india,Female,5/10/1985,2022-06-05
+CUST0116,Shweta Pandey,shweta.pandey24@gmail.com,+917343893360,Hyderabad,India,Other,14/12/1989,2022-12-21
+CUST0053,Sneha Patel,sneha.patel95@yahoo.com,+919686566602,Lucknow,India,Male,1977-03-18,2023-04-17
+CUST0077,Nikhil Jain,nikhil.jain86@gmail.com,+919320109101,surat,INDIA,Male,1998-07-21,2024-06-14
+CUST0064,  Tarun Bajaj  ,tarun.bajaj96@gmail.com,+918637375316,Lucknow,India,Male,1-5-1985,2023-06-21
+CUST0168,  Meera Krishnan  ,meera.krishnan52@gmail.com,+919994607170,Lucknow,India,F,1990-11-25,2023-02-16
+CUST0027,Aditya Bhatt,aditya.bhatt59@gmail.com,+917977515194,Lucknow,India,,1980-05-28,2022-07-26
+CUST0109,Gaurav Saxena,gaurav.saxena11@yahoo.com,+917642181881,surat,india,,5-8-1973,2022-05-04
+CUST0056,Vivek Chandra,vivek.chandra57yahoo.com,+918855548990,Jaipur,India,M,1972-04-22,2022-07-06
+CUST0183,Tanvi Ghosh,tanvi.ghosh74@yahoo.com,+918988841342,Ahmedabad,INDIA,Male,1981-01-16,2021-06-25
+CUST0113,Ritika Shah,ritika.shah62@gmail.com,+917271014739,Pune,India,m,26/1/1976,2022-10-09
+CUST0011,Aarav Sharma,aarav.sharma63@yahoo.com,+918320763135,bangalore,india,F,1972-12-16,2023-12-27
+CUST0139,Siddharth Rao,siddharth.rao39@gmail.com,+919964557845,hyderabad,India,f,12-9-1987,2024-01-18
+CUST0094,Harsh Malhotra,harsh.malhotra3@gmail.com,+919654827789,Surat,India,F,8-2-1983,2023-12-10
+CUST0140,Nikhil Jain,nikhil.jain51@gmail.com,+917629110165,Hyderabad,INDIA,F,8-21-1981,2022-03-15
+CUST0069,Ritika Shah,ritika.shah2@gmail.com,+918235368585,DELHI,India,Other,6-19-2000,2023-05-19
+CUST0030,Pallavi Deshpande,pallavi.deshpande85@gmail.com,+918289874320,Lucknow,India,f,10/12/1982,2023-02-16
+CUST0147,Aditya Bhatt,aditya.bhatt32@yahoo.com,+918918714457,hyderabad,India,M,12/11/1978,2021-08-31
+CUST0029,Deepak Sahu,deepak.sahu66@yahoo.com,+917816382125,Surat,India,M,22/9/1986,2021-05-24
+CUST0131,Preeti Chauhan,preeti.chauhan84@gmail.com,+917035121678,CHENNAI,India,m,25-6-1993,2023-04-01
+CUST0141,Amit Kumar,amit.kumar35@gmail.com,+917589582865,surat,india,Female,22/1/1977,2021-04-18
+CUST0127,Preeti Chauhan,preeti.chauhan70@yahoo.com,+919074232200,Lucknow,India,m,1984-02-23,2023-05-02
+CUST0063,Preeti Chauhan,preeti.chauhan58@gmail.com,+919370467256,chennai,India,f,23/4/1997,2022-04-24
+CUST0203,Preeti Chauhan,test3@gmail.com,,,India,M,1995-05-10,2022-03-15
+CUST0118,Chirag Thakur,chirag.thakur57@yahoo.com,+919770953471,chennai,india,M,22-3-1989,2023-02-01
+CUST0044,  Anjali Desai  ,anjali.desai83@gmail.com,+919105400301,Chennai,INDIA,Other,14/3/1992,2022-07-08
+CUST0074,Neha Verma,neha.verma29@gmail.com,+918706869362,kolkata,India,F,7-1-1995,2023-07-21
+CUST0138,Smita Kulkarni,smita.kulkarni23@gmail.com,+919346225613,surat,INDIA,m,7/8/1989,2022-09-04
+CUST0058,Deepak Sahu,deepak.sahu21@gmail.com,+918237886015,chennai,India,M,2-11-1984,2023-04-08
+CUST0071,  Ritu Agarwal  ,ritu.agarwal88@gmail.com,+919604496061,Hyderabad,India,Female,8/6/1989,2021-10-08
+CUST0009,Aarav Sharma,aarav.sharma15@gmail.com,+918146005448,hyderabad,India,m,1983-03-15,2022-06-24
+CUST0075,Anjali Desai,anjali.desai87@yahoo.com,+919742548209,Delhi,INDIA,Female,1-20-1985,2022-03-30
+CUST0057,  Lokesh Dubey  ,lokesh.dubey97@yahoo.com,+918899360801,DELHI,india,,3-8-1990,2022-11-14
+CUST0072,Karan Gupta,karan.gupta83@yahoo.com,+917143299564,surat,India,F,11-5-1999,2021-09-28
+CUST0008,Vivek Chandra,vivek.chandra97@yahoo.com,+919694860228,Lucknow,India,F,20-7-1982,2024-02-08
+CUST0145,Smita Kulkarni,smita.kulkarni18@gmail.com,+917828118650,hyderabad,India,Other,,2022-11-22
+CUST0022,Nisha Kapoor,nisha.kapoor14@gmail.com,+917495762348,surat,india,Male,20/5/1978,2022-02-21

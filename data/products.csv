@@ -1,0 +1,51 @@
+product_id,product_name,category,brand,cost_price,selling_price
+PROD001,Smart Watch,clothing,H&M,5005.39,8605.95
+PROD002,Running Shoes,clothing,Apple,4798.68,7858.53
+PROD003,Yoga Mat,clothing,Adidas,2360.35,2874.78
+PROD004,Laptop Stand,Sports,Xiaomi,409.23,935.46
+PROD005,Phone Case,BEAUTY,Adidas,6033.18,5454.36
+PROD006,Bluetooth Speaker,beauty,H&M,1079.4,1942.29
+PROD007,Formal Shirt,Electronics,LG,7484.61,9616.05
+PROD008,Denim Jeans,SPORTS,,5526.95,11981.41
+PROD009,Kitchen Blender,Electronics,Puma,726.75,383.15
+PROD010,Resistance Bands,BEAUTY,Sony,5102.85,9192.62
+PROD011,Protein Shaker,ELECTRONICS,boAt,4385.21,8605.82
+PROD012,Novel - Bestseller,BEAUTY,Adidas,7799.64,10276.24
+PROD013,Skincare Kit,ELECTRONICS,Sony,5649.67,11988.27
+PROD014,Running Shoes,books,Apple,3736.3,7294.62
+PROD015,USB Hub,CLOTHING,Apple,298.79,216.14
+PROD016,Mechanical Keyboard,BEAUTY,Xiaomi,2222.13,3601.22
+PROD017,Water Bottle,Clothing,Samsung,2813.09,4785.22
+PROD018,Backpack,ELECTRONICS,Zara,3750.54,6016.52
+PROD019,Sunglasses,SPORTS,Nike,2189.91,2724.39
+PROD020,Air Fryer,home & kitchen,Xiaomi,4168.83,4842.73
+PROD021,Face Wash,beauty,LG,3187.24,4175.66
+PROD022,Notebook Set,books,Adidas,2710.06,4560.38
+PROD023,Gaming Mouse,ELECTRONICS,Puma,3107.9,5603.1
+PROD024,Treadmill,BEAUTY,Samsung,7641.82,9143.41
+PROD025,Wireless Charger,Sports,LG,873.81,1519.94
+PROD026,Ethnic Kurta,Sports,Xiaomi,5057.2,8847.56
+PROD027,Bed Sheets,Home & Kitchen,Xiaomi,7223.46,15636.44
+PROD028,Skincare Kit,Electronics,Adidas,4424.05,8805.27
+PROD029,Resistance Bands,Electronics,boAt,3134.94,6687.82
+PROD030,Wireless Earbuds,home & kitchen,H&M,4037.83,4780.2
+PROD031,Smart Watch,ELECTRONICS,Samsung,7385.94,17402.77
+PROD032,Running Shoes,SPORTS,Zara,7801.53,9509.0
+PROD033,Yoga Mat,Books,Apple,4816.79,5718.47
+PROD034,Laptop Stand,Sports,Sony,6837.13,16384.9
+PROD035,Phone Case,sports,LG,3731.51,5325.07
+PROD036,Bluetooth Speaker,Clothing,Nike,1024.13,1771.12
+PROD037,Formal Shirt,SPORTS,Adidas,3724.95,6513.77
+PROD038,Denim Jeans,Sports,Xiaomi,5635.65,6517.41
+PROD039,Kitchen Blender,ELECTRONICS,Xiaomi,2136.11,3413.59
+PROD040,Resistance Bands,HOME & KITCHEN,Nike,442.44,737.17
+PROD041,Protein Shaker,home & kitchen,Apple,3803.94,8465.5
+PROD042,Ethnic Kurta,home & kitchen,Nike,1745.44,2898.85
+PROD043,Skincare Kit,ELECTRONICS,Puma,4771.73,4527.05
+PROD044,Desk Lamp,Beauty,Nike,917.43,2097.42
+PROD045,USB Hub,Beauty,Samsung,1510.32,2874.8
+PROD046,Mechanical Keyboard,Electronics,H&M,5529.06,7419.61
+PROD047,Water Bottle,HOME & KITCHEN,Zara,7090.71,8143.75
+PROD048,Backpack,Sports,Zara,3413.54,2136.53
+PROD049,Sunglasses,Home & Kitchen,boAt,7100.29,13037.12
+PROD050,Air Fryer,Electronics,H&M,6298.94,10095.67
